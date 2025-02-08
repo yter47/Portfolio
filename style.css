@@ -152,6 +152,12 @@ section {
     display: flex;
 }
 
+.profile-img {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
 /* Profile Section */
 
 #profile {
